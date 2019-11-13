@@ -11349,5 +11349,11 @@
     <!-- Three-fingers-swipe to screenshot -->
     <string name="three_finger_gesture">Three finger gesture</string>
     <string name="three_finger_gesture_summary">Swipe three finger to screenshot</string>
-
+    <!-- Quick pull down-->
+    <string name="quick_pulldown_title">Status bar pulls down Quick Settings</string>
+    <string name="quick_pulldown_summary">%1$s</string>
+    <string name="quick_pulldown_off">Off</string>
+    <string name="quick_pulldown_left">Left edge</string>
+    <string name="quick_pulldown_right">Right edge</string>
+    <string name="quick_pulldown_always">Anywhere</string>
 </resources>
