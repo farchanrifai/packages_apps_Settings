@@ -179,6 +179,13 @@
           android:summary="@string/vibrate_on_touch_summary"
           settings:keywords="@string/keywords_vibrate_on_touch"/>
 
+	<!-- Volume Rocker Playback Control -->
+        <SwitchPreference
+  	  android:key="volume_button_music_control"
+          android:title="@string/volume_rocker_music_controls_title"
+	  android:summary="@string/volume_rocker_music_controls_summary"
+          android:defaultValue="true" />
+
         <!-- Dock speaker plays -->
         <DropDownPreference
           android:key="dock_audio_media"
